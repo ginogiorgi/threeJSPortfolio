@@ -1,0 +1,25 @@
+{
+    "name": "threejsportfolio",
+    "version": "1.0.0",
+    "description": "Portfolio made with Three.js. Basic information taken from this youtube tutorial https://www.youtube.com/watch?v=kt0FrkQgw8w",
+    "main": "index.html",
+    "scripts": {
+        "dev": "npx vite"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ginogiorgi/threeJSPortfolio.git"
+    },
+    "author": "Gino Ruben Giorgi [ginorubengiorgi@gmail.com]",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ginogiorgi/threeJSPortfolio/issues"
+    },
+    "homepage": "https://github.com/ginogiorgi/threeJSPortfolio#readme",
+    "dependencies": {
+        "three": "^0.176.0"
+    },
+    "devDependencies": {
+        "vite": "^6.3.5"
+    }
+}
